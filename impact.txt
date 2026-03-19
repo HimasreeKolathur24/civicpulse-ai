@@ -1,0 +1,22 @@
+Impact Model
+
+Scenario: Water contamination detected in Ward 2
+
+Population affected: ~5,000 people
+
+Without early detection:
+- 10% may fall sick = 500 people
+- Average treatment cost = ₹500 per person
+
+Total potential cost = ₹2,50,000
+
+With CivicPulse AI:
+- Early detection reduces cases by 70%
+
+Estimated savings:
+₹1,75,000
+
+Additional Benefits:
+- Reduced hospital overload
+- Faster municipal response
+- Improved public safety

@@ -1,0 +1,15 @@
+Compliance & Safety (Guardrails)
+
+- Uses anonymized citizen complaint data (no personal information stored)
+- System provides advisory insights, not medical diagnosis
+- Designed to assist municipal authorities, not replace decision-makers
+- Threshold-based detection prevents false alerts
+- Handles uncertain or incomplete data using fallback logic
+
+Data Privacy:
+- No user identity is processed
+- Only aggregated patterns are analyzed
+
+Reliability:
+- Includes fallback responses if AI API fails
+- Ensures system always provides output during emergencies
